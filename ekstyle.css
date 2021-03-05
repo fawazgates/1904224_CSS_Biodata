@@ -1,0 +1,29 @@
+h1{
+	text-align: left;
+	}
+
+.body table{
+			width: 745px;
+			border: 1px;
+			text-align: left;	
+			background-color: #eaeaea;
+			}
+.body div tr {
+	background-color: green;
+}
+.body tr {
+			text-align: left;
+		}
+.body td .1{
+			width: 174px;
+		}
+.body  td .2 {
+			width: 353px;
+		}
+.body td .3 {
+			width: 210px;
+		}
+.body img {
+			width: 210px;
+			height: 350px;
+		}
